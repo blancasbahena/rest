@@ -1,2 +1,6 @@
 server:
   port: 8989
+Env:
+  Heroku:
+    Host:{Heroku.Host}
+      
